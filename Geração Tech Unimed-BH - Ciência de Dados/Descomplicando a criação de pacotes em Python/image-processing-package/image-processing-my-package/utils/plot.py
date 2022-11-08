@@ -1,4 +1,3 @@
-#Author: Karina Tiemi Kato
 import matplotlib.pyplot as plt
 
 def plot_image(image):
