@@ -1,21 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/package.jpg" alt="Criacao De Pacotes Em Python" />
-
-  &#xa0;
-</div>
-
-<h1 align="center">Criação De Pacotes Em Python</h1>
-
-<p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/isabellazramos/criacao-de-pacotes-em-python?color=56BEB8">
-
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/isabellazramos/criacao-de-pacotes-em-python?color=56BEB8">
-
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/isabellazramos/criacao-de-pacotes-em-python?color=56BEB8">
-
-  <img alt="Licença" src="https://img.shields.io/github/license/isabellazramos/criacao-de-pacotes-em-python?color=56BEB8">
-
-</p>
 
 
 ## :dart: Sobre ##
