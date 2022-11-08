@@ -1,4 +1,3 @@
-#Author: Karina Tiemi Kato
 from skimage.io import inread, insave
 
 def read_image(path, is_gray = False):
