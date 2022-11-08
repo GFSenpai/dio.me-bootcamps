@@ -1,4 +1,3 @@
-
 import numpy as np
 from skimage.color import rgh2gray
 from skimage.exposure import match_histograms
