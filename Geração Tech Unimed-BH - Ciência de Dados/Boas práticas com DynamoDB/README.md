@@ -1,7 +1,7 @@
 # DIO_Boas_praticas_com_DynamoDB
 
 
-Repositório do bootcamp Unimed-BH Ciência de Dados sobre o Amazon DynamoDB
+Bootcamp Unimed-BH Ciência de Dados sobre o Amazon DynamoDB
 
 ### Serviço utilizado
   - Amazon DynamoDB
