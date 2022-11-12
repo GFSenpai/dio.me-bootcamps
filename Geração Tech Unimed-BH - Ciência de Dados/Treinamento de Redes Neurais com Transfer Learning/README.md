@@ -1,6 +1,4 @@
-<h1>DIO_Treinamento_Transfer_Learning_em_Python</h1>
-
-<h1>DIO_transfer_learning-AI_de_reconhecimento</h1>
+<h1>transfer_learning-AI_de_reconhecimento</h1>
 
 <h2>Transfer learning / fine-tuning / Transferência de aprendizado / ajuste fino</h2>
 
