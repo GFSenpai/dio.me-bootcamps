@@ -24,8 +24,6 @@ O dataset utilizado engloba duas classes: gatos e cachorros. Uma descrição da 
 
 Observações: Neste projeto, você pode usar sua própria base de dados (exemplo: fotos suas, dos seus pais, dos seus amigos, dos seus animais domésticos, etc), o exemplo de gatos e cachorros, pode ser substituído por duas outras classes do seu interesse. 
 
-O projeto deve ser enviado para o GitHub da DIO: https://github.com/digitalinnovationone. 
-
 
 
 
