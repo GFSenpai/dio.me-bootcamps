@@ -1,3 +1,3 @@
 ## :dart: Sobre ##
 
-# curso-dio-desafio-projeto-java-spring
+Repositório criado para entregar o desafio Explorando Padrões de Projetos na Prática com Java na DIO
