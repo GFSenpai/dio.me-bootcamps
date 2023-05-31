@@ -53,29 +53,29 @@ print(insp.get_table_names())
 
 with Session(engine) as session:
     nino = User(
-        name="NINO",
-        fullname="NINOseg",
-        address=[Address(email_address="byttencourt@hotmail.com")]
+        name="Gabe",
+        fullname="Gabeseg",
+        address=[Address(email_address="gabriel10gfs10@gmail.com")]
     )
 
-    nico = User(
-        name="Nicolas",
-        fullname="Nicolas Alves",
-        address=[Address(email_address="nikko@hotmail.com")]
+    gabe = User(
+        name="Gabriel",
+        fullname="Gabriel Faria",
+        address=[Address(email_address="gabriel10gfs10@gmail.com")]
     )
 
-    jose = User(
-        name="Jose",
-        fullname="jose Alves"
+    yasmin = User(
+        name="Yasmin",
+        fullname="Yasmin Caroline"
     )
 
     #enviar para db
-    session.add_all([nino, nico, jose])
+    session.add_all([Gabe, gabri, yasmin])
 
     session.commit()
 
 
-stmt = select(User).where(User.name.in_(["nino", 'nico']))
+stmt = select(User).where(User.name.in_(["gabri", 'Gabe']))
 print('Recuperando usuarios a partir de condição de filtragem')
 for user in session.scalars(stmt):
     print(user)
