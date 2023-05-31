@@ -13,7 +13,7 @@ print(db.test_collection_names)
 
 # definição para compor o doc
 post = {
-    'author': 'NINO',
+    'author': 'Gabriel',
     'text': 'My first mongo db application on python',
     'tags': ['mongodb', 'python', 'pymongo'],
     'date': datetime.utcnow()
@@ -27,14 +27,14 @@ print(post_id)
 
 #bulk inserts
 new_posts = [{
-    'author': 'NINO',
+    'author': 'Gabriel',
     'text': 'Outro post',
     'tags': ['bulk', 'insert', 'insert'],
     'date': datetime.utcnow()
     },
     {
-    'author': 'NIco',
-    'text': 'Post do Nicolas',
+    'author': 'Gabe',
+    'text': 'Post do Gabriel',
     'tittle': 'Mongo is fun',
     'date': datetime(2018, 3, 15, 19, 12)
     }
@@ -43,7 +43,7 @@ result = posts.insert_many(new_posts)
 print(result.inserted_ids)
 
 print('Recuperação final')
-pprint.pprint(db.posts.find_one({'author': 'NIco'}))
+pprint.pprint(db.posts.find_one({'author': 'Gabe'}))
 
 for post in posts.find():
     pprint.pprint(post)
