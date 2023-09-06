@@ -6,5 +6,5 @@ Desafio DIO:  Diagramação de Classes do iPhone
 
 Diagramação das classes e interfaces do iPhone de: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
-![preview](img\iPhone.png)
+![preview](/img/iPhone.png)
 
